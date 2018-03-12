@@ -1,0 +1,15 @@
+body{
+ font-family:'Playfair Display',Times New Roman;
+ background-color:black;
+ color:rgb(192,192,192);
+}
+h1{
+  font-family:'Lobster';
+  font-size:75px;
+  color:#5d5e61;
+  padding-bottom:15px;
+}
+h5{
+  margin-bottom:15px;
+  font-size:15px;
+}
