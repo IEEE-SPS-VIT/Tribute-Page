@@ -2,6 +2,7 @@ body{
  font-family:'Playfair Display',Times New Roman;
  background-color:black;
  color:rgb(192,192,192);
+ background-image:url("https://animecitationsquotes.deviantart.com/art/Gintama-Wallpaper-610538367");
 }
 h1{
   font-family:'Lobster';
@@ -12,4 +13,21 @@ h1{
 h5{
   margin-bottom:15px;
   font-size:15px;
+}
+.t {
+  padding: 0 15% 0 15%;
+}
+h2{
+  color:black;
+  font-family:'Lobster';
+  margin-left: 0px;
+  font-size:50px
+}
+.silver-background{
+  background-color:white;
+  margin:0px;
+}
+h4{
+  color: black;
+  padding: 20px 25px 10px 900px;
 }
